@@ -1,0 +1,10 @@
+.Films{
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+}
+.Films_main{
+  width: 1280px;
+  background-color: #fff;
+}
